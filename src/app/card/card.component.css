@@ -1,0 +1,15 @@
+.card{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    background-color: #ffffff;
+    flex-basis: 20%;
+    position: relative;
+    margin-left: 50px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.date{
+    color:#B91646;
+}

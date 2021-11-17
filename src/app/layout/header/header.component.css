@@ -1,0 +1,13 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+  .navbar{
+    background-color: #B91646;
+    padding: 15px;
+    color: #ffffff;
+  }
+  .example-icon {
+    padding: 0 14px;
+    background-color: #B91646;
+    border: 0;
+  }
